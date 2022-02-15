@@ -17,7 +17,6 @@
   </head>
   <body>
       <div>
-          nnlnl
           <?php
           if($nameLength > 3 &&
           strpos($email, '.') !== false &&
